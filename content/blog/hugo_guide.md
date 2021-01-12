@@ -1,3 +1,18 @@
+---
+title:  如何使用RStudio+Hugo+Netlify搭建个人主页
+author: Kin Wang
+date: '2021-01-11'
+slug: []
+categories:
+  - blog
+tags: [hugo]
+authors: [Kin Wang]
+description: ''
+externalLink: ''
+series: []
+---
+
+
 ## 如何使用RStudio+Hugo+Netlify搭建个人主页
 
 - 本文尽量用最简单直接的语言搭配直接上手的代码来讲清楚如何搭建个人主页
